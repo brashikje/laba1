@@ -14,5 +14,15 @@ namespace laba1
         /// <summary>
         /// Инициализирует новый экземпляр класса Student значением по умолчанию
         /// </summary>
+        
+        public Student()
+        {
+            this.name = "";
+            this.kurs = 0;
+            this.pol = false;
+            /// <summary>
+            /// Инициализирует новый конструктор по умолчанию
+            /// </summary>
+        }
     }
 }
