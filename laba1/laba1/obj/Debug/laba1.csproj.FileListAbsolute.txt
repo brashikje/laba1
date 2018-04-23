@@ -1,1 +1,6 @@
 C:\Users\spir1\Desktop\КПиЯП Практики\Лабараторная работа №1\laba1\laba1\bin\Debug\laba1.exe.config
+C:\Users\spir1\Desktop\КПиЯП Практики\Лабараторная работа №1\laba1\laba1\bin\Debug\laba1.exe
+C:\Users\spir1\Desktop\КПиЯП Практики\Лабараторная работа №1\laba1\laba1\bin\Debug\laba1.pdb
+C:\Users\spir1\Desktop\КПиЯП Практики\Лабараторная работа №1\laba1\laba1\obj\Debug\laba1.csprojResolveAssemblyReference.cache
+C:\Users\spir1\Desktop\КПиЯП Практики\Лабараторная работа №1\laba1\laba1\obj\Debug\laba1.exe
+C:\Users\spir1\Desktop\КПиЯП Практики\Лабараторная работа №1\laba1\laba1\obj\Debug\laba1.pdb

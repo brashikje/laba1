@@ -10,6 +10,11 @@ namespace laba1
     {
         static void Main(string[] args)
         {
+            Student objStudent = new Student();
+            Console.WriteLine(objStudent);
+            Student oobjStudent = new Student("Masha", 3, true);
+            Console.WriteLine(oobjStudent);
+            Console.ReadKey();
         }
-    }
+    } 
 }

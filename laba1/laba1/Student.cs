@@ -8,21 +8,33 @@ namespace laba1
 {
     class Student
     {
-        private string name;
-        private int kurs;
-        private bool pol;
+        private string Name;
+        private int Kurs;
+        private bool Pol;
         /// <summary>
         /// Инициализирует новый экземпляр класса Student значением по умолчанию
         /// </summary>
-        
         public Student()
         {
-            this.name = "";
-            this.kurs = 0;
-            this.pol = false;
-            /// <summary>
-            /// Инициализирует новый конструктор по умолчанию
-            /// </summary>
+            this.Name = "";
+            this.Kurs = 0;
+            this.Pol = false;
+        }
+        /// <summary>
+        /// Инициализирует новый экземпляр класса Student значениями Имя, курс, пол
+        /// </summary>
+        /// <param name="name">Имя</param>
+        /// <param name="kurs">Курс</param>
+        /// <param name="pol">Пол</param>
+        public Student(String name, int kurs, bool pol)
+        {
+            Name = name;
+            Kurs = kurs;
+            Pol = pol;
+        }
+        public override string ToString()
+        {
+            return "Имя = " + Name + " курс = " + Kurs + " Пол = " + Pol ;
         }
     }
 }
