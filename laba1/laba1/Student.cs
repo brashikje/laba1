@@ -32,9 +32,15 @@ namespace laba1
             Kurs = kurs;
             Pol = pol;
         }
+        /// <summary>
+        /// Вывод объекта класса
+        /// </summary>
+        /// <returns></returns>
         public override string ToString()
         {
             return "Имя = " + Name + " курс = " + Kurs + " Пол = " + Pol ;
+            
         }
     }
+    
 }
